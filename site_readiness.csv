@@ -1,0 +1,4 @@
+site,customer,readiness_pct,completed_milestones,total_milestones,blockers,network_setup,hardware_install,data_validation,user_training,sat_signoff
+Site-A,Sample-Customer-A,60,3,5,user training: pending; sat signoff: pending,complete,complete,complete,pending,pending
+Site-B,Sample-Customer-B,20,1,5,hardware install: blocked; data validation: pending; user training: not_started; sat signoff: not_started,complete,blocked,pending,not_started,not_started
+Site-C,Sample-Customer-C,100,5,5,None,complete,complete,complete,complete,complete

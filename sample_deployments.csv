@@ -1,0 +1,4 @@
+site,customer,network_setup,hardware_install,data_validation,user_training,sat_signoff
+Site-A,Sample-Customer-A,complete,complete,complete,pending,pending
+Site-B,Sample-Customer-B,complete,blocked,pending,not_started,not_started
+Site-C,Sample-Customer-C,complete,complete,complete,complete,complete
